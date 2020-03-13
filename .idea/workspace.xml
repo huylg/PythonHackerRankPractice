@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05afaca7-e782-4bb3-87a7-5f0db3bfb4f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FindPercentage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SplitAndJoin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwapCase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringValidator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextAlignment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -135,7 +132,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583979795248</updated>
       <workItem from="1583979812269" duration="6204000" />
-      <workItem from="1584026288034" duration="3215000" />
+      <workItem from="1584026288034" duration="3492000" />
+      <workItem from="1584117126788" duration="2226000" />
     </task>
     <servers />
   </component>
