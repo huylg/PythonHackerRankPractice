@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05afaca7-e782-4bb3-87a7-5f0db3bfb4f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/StringValidator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextAlignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlphabetRangoli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrintFormatted.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWord.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +24,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z0d9ZsNz8BLFcWnSQkkg1oP0aQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -133,7 +137,12 @@
       <updated>1583979795248</updated>
       <workItem from="1583979812269" duration="6204000" />
       <workItem from="1584026288034" duration="3492000" />
-      <workItem from="1584117126788" duration="2226000" />
+      <workItem from="1584117126788" duration="2280000" />
+      <workItem from="1584156813860" duration="1594000" />
+      <workItem from="1584176185488" duration="1565000" />
+      <workItem from="1584203506653" duration="544000" />
+      <workItem from="1584287313588" duration="234000" />
+      <workItem from="1584365116435" duration="287000" />
     </task>
     <servers />
   </component>
@@ -153,9 +162,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hackerrank$IfElseStagement.coverage" NAME="IfElseStagement Coverage Results" MODIFIED="1583980747103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Hackerrank$HelloWord.coverage" NAME="HelloWord Coverage Results" MODIFIED="1583979995399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hackerrank$RunnerUpScore.coverage" NAME="RunnerUpScore Coverage Results" MODIFIED="1583987409860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hackerrank$RunnerUpScore.coverage" NAME="RunnerUpScore Coverage Results" MODIFIED="1584365209945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
